@@ -1,0 +1,68 @@
+/* Fonts - START */
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url(../fonts/MontserratAlternates-Black.ttf);
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url(../fonts/MontserratAlternates-ExtraBold.ttf);
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url(../fonts/MontserratAlternates-Bold.ttf);
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url(../fonts/MontserratAlternates-SemiBold.ttf);
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url(../fonts/MontserratAlternates-Medium.ttf);
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url(../fonts/MontserratAlternates-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url(../fonts/MontserratAlternates-Thin.ttf);
+}
+
+@font-face {
+    font-family: 'Mont';
+    src: url(../fonts/Montserrat-Black.ttf);
+}
+
+@font-face {
+    font-family: 'Mont';
+    src: url(../fonts/Montserrat-ExtraBold.ttf);
+}
+
+@font-face {
+    font-family: 'Mont';
+    src: url(../fonts/Montserrat-SemiBold.ttf);
+}
+
+@font-face {
+    font-family: 'Mont';
+    src: url(../fonts/Montserrat-Medium.ttf);
+}
+
+@font-face {
+    font-family: 'Mont';
+    src: url(../fonts/Montserrat-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Mont';
+    src: url(../fonts/Montserrat-Thin.ttf);
+}
+
+/* Fonts - END */
